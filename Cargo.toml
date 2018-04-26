@@ -1,0 +1,11 @@
+[package]
+name = "libgrpc"
+version = "0.0.1"
+authors = ["xushuai <dyxushuai@gmail.com>"]
+description = "gRPC rust implemention"
+homepage = "https://github.com/grpc-rs/libgrpc"
+repository = "https://github.com/grpc-rs/libgrpc"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+
+[dependencies]
