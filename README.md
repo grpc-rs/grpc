@@ -14,3 +14,24 @@
     limitations under the License.
 -->
 
+# Another rust-lang [gRPC][] implemention
+
+## Why
+
+I think [Actor Concurrency Model][actor] will be another good choose of network for [Distributed Systems][distributed computing]. And the [gRPC][] network framework has became more and more popular. So let's keep an eye on the combination of both, maybe it will be interesting!
+
+## Inspired
+
+- [gRPC][] an open-source rpc framework contributed by Google.
+- [tower-grpc][] A [gRPC][] implemention with rust-lang. 
+- [actix][] A fast actor framework for rust-lang.
+
+
+
+
+
+[tower-grpc]: https://github.com/tower-rs/tower-grpc
+[actix]: https://github.com/actix
+[gRPC]: https://grpc.io/
+[actor]: https://en.wikipedia.org/wiki/Actor_model
+[distributed computing]: https://en.wikipedia.org/wiki/Distributed_computing
