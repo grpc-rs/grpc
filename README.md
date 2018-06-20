@@ -18,7 +18,7 @@
 
 ## Why
 
-I think [Actor Concurrency Model][actor] will be another good choose of network for [Distributed Systems][distributed computing]. And the [gRPC][] network framework has became more and more popular. So let's keep an eye on the combination of both, maybe it will be interesting!
+I think [Actor Concurrency Model][actor] will be another good choose for [Distributed Systems][distributed computing]. And the [gRPC][] network framework has became more and more popular. So let's keep an eye on the combination of both, maybe it will be interesting!
 
 ## Inspired
 
